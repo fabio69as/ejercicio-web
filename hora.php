@@ -80,10 +80,11 @@
             $h = ($h - 1 + 12) % 12;
         }
 
-        echo "<h3>La hora exacta es: " . sprintf("%02d:%02d", $h, $m) . "</h3>";
+        echo "<h3>La hora exacta eSs: " . sprintf("%02d:%02d", $h, $m) . "</h3>";
     }
     ?>
 </div>
 
 </body>
 </html>
+
